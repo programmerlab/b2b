@@ -1,0 +1,31 @@
+{
+"RECORDS":[
+{
+"id":4,
+"tenant_id":1,
+"layout_path":null,
+"row":100,
+"active":"yes",
+"created_at":"2016\/4\/8 14:59:54",
+"updated_at":"2016\/4\/8 14:59:54"
+},
+{
+"id":5,
+"tenant_id":1,
+"layout_path":null,
+"row":100,
+"active":"yes",
+"created_at":"2016\/4\/8 15:03:28",
+"updated_at":"2016\/4\/8 15:03:28"
+},
+{
+"id":6,
+"tenant_id":1,
+"layout_path":"horizontal",
+"row":100,
+"active":"yes",
+"created_at":"2016\/7\/18 17:20:01",
+"updated_at":"2016\/7\/18 17:20:01"
+}
+]
+}

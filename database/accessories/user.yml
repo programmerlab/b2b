@@ -1,0 +1,6 @@
+fields:
+  - lang
+  - currency
+  - avatar
+  - adminTheme
+  - siteTheme

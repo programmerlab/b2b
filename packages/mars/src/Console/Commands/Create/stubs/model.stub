@@ -1,0 +1,33 @@
+<?php
+
+namespace App\Database\Models\DummyName;
+
+use Ribrit\Mars\Database\Models\Model;
+
+class DummyName extends Model
+{
+    /**
+     * The database table used by the model.
+     *
+     * @var string
+     */
+    protected $table = '';
+
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array
+     */
+    protected $fillable = [
+        //
+    ];
+
+    /**
+    * The relations to eager load on every query.
+    *
+    * @var array
+    */
+    protected $with = [
+        //
+    ];
+}

@@ -1,0 +1,778 @@
+{
+"RECORDS":[
+{
+"id":1,
+"parent_id":0,
+"code":"zone",
+"row":10,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":2,
+"parent_id":1,
+"code":"zone",
+"row":10,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":3,
+"parent_id":1,
+"code":"country",
+"row":20,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":4,
+"parent_id":1,
+"code":"city",
+"row":30,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":5,
+"parent_id":1,
+"code":"town",
+"row":40,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":6,
+"parent_id":1,
+"code":"locality",
+"row":50,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":7,
+"parent_id":0,
+"code":"route",
+"row":20,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":8,
+"parent_id":7,
+"code":"admin",
+"row":10,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":9,
+"parent_id":7,
+"code":"site",
+"row":20,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":10,
+"parent_id":7,
+"code":"components",
+"row":30,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"2016\/6\/2 15:49:45"
+},
+{
+"id":14,
+"parent_id":0,
+"code":"plugin",
+"row":40,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"2016\/2\/28 14:48:29"
+},
+{
+"id":17,
+"parent_id":14,
+"code":"application",
+"row":30,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":18,
+"parent_id":14,
+"code":"api",
+"row":40,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":19,
+"parent_id":14,
+"code":"payment",
+"row":50,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":20,
+"parent_id":14,
+"code":"shipping",
+"row":60,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":21,
+"parent_id":14,
+"code":"module",
+"row":70,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":22,
+"parent_id":0,
+"code":"status",
+"row":50,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":24,
+"parent_id":0,
+"code":"draft",
+"row":60,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":25,
+"parent_id":24,
+"code":"email",
+"row":10,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":26,
+"parent_id":24,
+"code":"sms",
+"row":20,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":27,
+"parent_id":0,
+"code":"category",
+"row":70,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":28,
+"parent_id":27,
+"code":"page",
+"row":10,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":29,
+"parent_id":27,
+"code":"post",
+"row":20,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":30,
+"parent_id":27,
+"code":"gallery",
+"row":30,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":31,
+"parent_id":27,
+"code":"video",
+"row":40,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":32,
+"parent_id":27,
+"code":"product",
+"row":50,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":33,
+"parent_id":27,
+"code":"reference",
+"row":60,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":34,
+"parent_id":0,
+"code":"content",
+"row":80,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":35,
+"parent_id":34,
+"code":"page",
+"row":10,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":36,
+"parent_id":34,
+"code":"post",
+"row":20,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":37,
+"parent_id":34,
+"code":"gallery",
+"row":30,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":38,
+"parent_id":34,
+"code":"video",
+"row":40,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":39,
+"parent_id":34,
+"code":"product",
+"row":50,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":40,
+"parent_id":34,
+"code":"reference",
+"row":60,
+"active":"yes",
+"created_at":"2016\/1\/25 11:48:37",
+"updated_at":"0000\/0\/0 00:00:00"
+},
+{
+"id":41,
+"parent_id":22,
+"code":"content",
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/1 09:44:51",
+"updated_at":"2016\/2\/1 11:44:51"
+},
+{
+"id":46,
+"parent_id":22,
+"code":"offer",
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/1 11:24:43",
+"updated_at":"2016\/2\/1 11:24:43"
+},
+{
+"id":47,
+"parent_id":22,
+"code":"order",
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/1 11:25:11",
+"updated_at":"2016\/2\/1 11:25:11"
+},
+{
+"id":48,
+"parent_id":0,
+"code":"definition",
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/8 10:11:32",
+"updated_at":"2016\/2\/8 10:11:32"
+},
+{
+"id":49,
+"parent_id":22,
+"code":"user",
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/8 10:18:24",
+"updated_at":"2016\/2\/8 10:18:24"
+},
+{
+"id":50,
+"parent_id":48,
+"code":"lengthClass",
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/8 10:36:36",
+"updated_at":"2016\/2\/8 10:36:36"
+},
+{
+"id":51,
+"parent_id":48,
+"code":"weightClass",
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/8 10:37:36",
+"updated_at":"2016\/2\/8 10:37:36"
+},
+{
+"id":52,
+"parent_id":48,
+"code":"taxClass",
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/8 10:38:18",
+"updated_at":"2016\/2\/8 10:38:18"
+},
+{
+"id":56,
+"parent_id":48,
+"code":"measurement",
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/8 12:08:07",
+"updated_at":"2016\/2\/8 12:08:07"
+},
+{
+"id":57,
+"parent_id":0,
+"code":"setting",
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/8 12:08:08",
+"updated_at":"2016\/2\/8 12:08:08"
+},
+{
+"id":58,
+"parent_id":57,
+"code":"system",
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/8 12:08:08",
+"updated_at":"2016\/4\/3 18:40:44"
+},
+{
+"id":59,
+"parent_id":0,
+"code":"theme",
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/24 13:15:23",
+"updated_at":"2016\/2\/24 13:15:23"
+},
+{
+"id":60,
+"parent_id":59,
+"code":"admin",
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/24 13:19:00",
+"updated_at":"2016\/2\/24 13:19:00"
+},
+{
+"id":61,
+"parent_id":59,
+"code":"site",
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/24 13:19:15",
+"updated_at":"2016\/2\/24 13:19:15"
+},
+{
+"id":64,
+"parent_id":0,
+"code":"image",
+"row":100,
+"active":"yes",
+"created_at":"2016\/3\/16 15:38:40",
+"updated_at":"2016\/3\/16 15:38:40"
+},
+{
+"id":65,
+"parent_id":0,
+"code":"slug",
+"row":100,
+"active":"yes",
+"created_at":"2016\/3\/16 15:39:33",
+"updated_at":"2016\/3\/16 15:39:33"
+},
+{
+"id":68,
+"parent_id":64,
+"code":"category",
+"row":100,
+"active":"yes",
+"created_at":"2016\/3\/16 15:45:10",
+"updated_at":"2016\/3\/16 15:45:10"
+},
+{
+"id":69,
+"parent_id":64,
+"code":"content",
+"row":100,
+"active":"yes",
+"created_at":"2016\/3\/16 15:45:40",
+"updated_at":"2016\/3\/16 15:45:40"
+},
+{
+"id":70,
+"parent_id":65,
+"code":"category",
+"row":100,
+"active":"yes",
+"created_at":"2016\/3\/16 15:46:18",
+"updated_at":"2016\/3\/16 15:46:18"
+},
+{
+"id":71,
+"parent_id":65,
+"code":"content",
+"row":100,
+"active":"yes",
+"created_at":"2016\/3\/16 15:46:45",
+"updated_at":"2016\/3\/16 15:46:45"
+},
+{
+"id":72,
+"parent_id":64,
+"code":"order",
+"row":100,
+"active":"yes",
+"created_at":"2016\/3\/18 14:17:27",
+"updated_at":"2016\/3\/18 14:17:27"
+},
+{
+"id":73,
+"parent_id":48,
+"code":"paymentType",
+"row":100,
+"active":"yes",
+"created_at":"2016\/3\/18 14:25:49",
+"updated_at":"2016\/3\/18 14:25:49"
+},
+{
+"id":74,
+"parent_id":64,
+"code":"user",
+"row":100,
+"active":"yes",
+"created_at":"2016\/3\/18 14:53:41",
+"updated_at":"2016\/3\/18 14:53:41"
+},
+{
+"id":75,
+"parent_id":0,
+"code":"note",
+"row":100,
+"active":"yes",
+"created_at":"2016\/3\/22 10:41:50",
+"updated_at":"2016\/3\/22 10:41:50"
+},
+{
+"id":76,
+"parent_id":75,
+"code":"user",
+"row":100,
+"active":"yes",
+"created_at":"2016\/3\/22 10:42:26",
+"updated_at":"2016\/3\/22 10:43:07"
+},
+{
+"id":77,
+"parent_id":75,
+"code":"category",
+"row":100,
+"active":"yes",
+"created_at":"2016\/3\/22 10:43:28",
+"updated_at":"2016\/3\/22 10:43:28"
+},
+{
+"id":78,
+"parent_id":75,
+"code":"content",
+"row":100,
+"active":"yes",
+"created_at":"2016\/3\/22 10:43:42",
+"updated_at":"2016\/3\/22 10:43:42"
+},
+{
+"id":79,
+"parent_id":75,
+"code":"order",
+"row":100,
+"active":"yes",
+"created_at":"2016\/3\/22 10:43:55",
+"updated_at":"2016\/3\/22 10:43:55"
+},
+{
+"id":80,
+"parent_id":57,
+"code":"assets",
+"row":100,
+"active":"yes",
+"created_at":"2016\/4\/3 18:41:30",
+"updated_at":"2016\/4\/3 18:41:30"
+},
+{
+"id":81,
+"parent_id":57,
+"code":"caching",
+"row":100,
+"active":"yes",
+"created_at":"2016\/4\/3 18:41:52",
+"updated_at":"2016\/4\/3 18:41:52"
+},
+{
+"id":82,
+"parent_id":57,
+"code":"debug",
+"row":100,
+"active":"yes",
+"created_at":"2016\/4\/3 18:42:33",
+"updated_at":"2016\/4\/3 18:42:33"
+},
+{
+"id":83,
+"parent_id":57,
+"code":"email",
+"row":100,
+"active":"yes",
+"created_at":"2016\/4\/3 18:43:00",
+"updated_at":"2016\/4\/3 18:43:00"
+},
+{
+"id":84,
+"parent_id":57,
+"code":"theme",
+"row":100,
+"active":"yes",
+"created_at":"2016\/4\/3 18:47:42",
+"updated_at":"2016\/4\/3 18:47:42"
+},
+{
+"id":85,
+"parent_id":57,
+"code":"user",
+"row":100,
+"active":"yes",
+"created_at":"2016\/4\/3 18:48:19",
+"updated_at":"2016\/4\/3 18:48:19"
+},
+{
+"id":87,
+"parent_id":22,
+"code":"badge",
+"row":100,
+"active":"yes",
+"created_at":"2016\/6\/20 15:04:14",
+"updated_at":"2016\/6\/20 15:04:14"
+},
+{
+"id":88,
+"parent_id":48,
+"code":"icon",
+"row":100,
+"active":"yes",
+"created_at":"2016\/7\/18 14:36:57",
+"updated_at":"2016\/7\/18 14:36:57"
+},
+{
+"id":89,
+"parent_id":22,
+"code":"card",
+"row":100,
+"active":"yes",
+"created_at":"2016\/7\/19 15:43:48",
+"updated_at":"2016\/7\/19 15:43:48"
+},
+{
+"id":90,
+"parent_id":48,
+"code":"transportationType",
+"row":100,
+"active":"yes",
+"created_at":"2016\/7\/19 15:46:29",
+"updated_at":"2016\/7\/19 15:46:29"
+},
+{
+"id":91,
+"parent_id":48,
+"code":"color",
+"row":100,
+"active":"yes",
+"created_at":"2016\/8\/11 14:40:52",
+"updated_at":"2016\/8\/11 14:40:52"
+},
+{
+"id":92,
+"parent_id":0,
+"code":"brand",
+"row":100,
+"active":"yes",
+"created_at":"2016\/8\/15 10:47:39",
+"updated_at":"2016\/8\/15 10:48:24"
+},
+{
+"id":93,
+"parent_id":92,
+"code":"vehicle",
+"row":100,
+"active":"yes",
+"created_at":"2016\/8\/15 10:51:17",
+"updated_at":"2016\/8\/15 10:51:17"
+},
+{
+"id":94,
+"parent_id":92,
+"code":"vehicleModel",
+"row":100,
+"active":"yes",
+"created_at":"2016\/8\/15 10:52:14",
+"updated_at":"2016\/8\/15 10:53:16"
+},
+{
+"id":95,
+"parent_id":92,
+"code":"vehicleSeries",
+"row":100,
+"active":"yes",
+"created_at":"2016\/8\/15 10:52:59",
+"updated_at":"2016\/8\/15 10:53:26"
+},
+{
+"id":96,
+"parent_id":48,
+"code":"vehicleClass",
+"row":100,
+"active":"yes",
+"created_at":"2016\/8\/15 14:26:00",
+"updated_at":"2016\/8\/15 14:26:00"
+},
+{
+"id":97,
+"parent_id":48,
+"code":"vehicleBody",
+"row":100,
+"active":"yes",
+"created_at":"2016\/8\/15 14:26:51",
+"updated_at":"2016\/8\/16 14:39:37"
+},
+{
+"id":98,
+"parent_id":48,
+"code":"vehicleGear",
+"row":100,
+"active":"yes",
+"created_at":"2016\/8\/15 14:27:11",
+"updated_at":"2016\/8\/15 14:27:11"
+},
+{
+"id":99,
+"parent_id":48,
+"code":"vehicleFuel",
+"row":100,
+"active":"yes",
+"created_at":"2016\/8\/15 14:27:27",
+"updated_at":"2016\/8\/15 14:27:27"
+},
+{
+"id":100,
+"parent_id":34,
+"code":"vehicle",
+"row":100,
+"active":"yes",
+"created_at":"2016\/8\/16 12:25:42",
+"updated_at":"2016\/8\/16 12:25:42"
+},
+{
+"id":101,
+"parent_id":48,
+"code":"branch",
+"row":100,
+"active":"yes",
+"created_at":"2016\/8\/17 13:23:21",
+"updated_at":"2016\/8\/17 13:23:21"
+},
+{
+"id":102,
+"parent_id":48,
+"code":"insurance",
+"row":100,
+"active":"yes",
+"created_at":"2016\/8\/17 15:48:47",
+"updated_at":"2016\/8\/17 15:48:47"
+},
+{
+"id":103,
+"parent_id":48,
+"code":"insuranceType",
+"row":100,
+"active":"yes",
+"created_at":"2016\/8\/17 15:49:52",
+"updated_at":"2016\/8\/17 15:49:52"
+},
+{
+"id":104,
+"parent_id":48,
+"code":"year",
+"row":100,
+"active":"yes",
+"created_at":"2016\/8\/22 15:44:05",
+"updated_at":"2016\/8\/22 15:44:05"
+}
+]
+}

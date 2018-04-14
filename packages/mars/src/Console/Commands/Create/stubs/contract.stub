@@ -1,0 +1,10 @@
+<?php
+
+namespace App\Database\Contracts\DummyName;
+
+use Ribrit\Mars\Database\Contracts\Contract;
+
+interface DummyNameContract extends Contract
+{
+
+}

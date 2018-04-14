@@ -1,0 +1,20 @@
+{
+"RECORDS":[
+{
+"id":1,
+"tenant_id":1,
+"group_id":25,
+"name":"İletişim Sistem Bildirimi",
+"created_at":"2016\/8\/2 10:43:18",
+"updated_at":"2016\/8\/2 10:43:18"
+},
+{
+"id":2,
+"tenant_id":1,
+"group_id":25,
+"name":"İletişim Müşteri Bildirimi",
+"created_at":"2016\/8\/2 10:45:08",
+"updated_at":"2016\/8\/2 10:45:08"
+}
+]
+}

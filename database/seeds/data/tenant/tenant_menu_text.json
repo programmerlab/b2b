@@ -1,0 +1,40 @@
+{
+"RECORDS":[
+{
+"id":9,
+"tenant_menu_id":5,
+"lang_id":2,
+"title":"Quick Links"
+},
+{
+"id":10,
+"tenant_menu_id":5,
+"lang_id":1,
+"title":"Hızlı Linkler"
+},
+{
+"id":13,
+"tenant_menu_id":6,
+"lang_id":2,
+"title":"Social Media"
+},
+{
+"id":14,
+"tenant_menu_id":6,
+"lang_id":1,
+"title":"Sosyal Medya"
+},
+{
+"id":15,
+"tenant_menu_id":4,
+"lang_id":1,
+"title":"Ana Menu"
+},
+{
+"id":16,
+"tenant_menu_id":4,
+"lang_id":2,
+"title":"Main Menu"
+}
+]
+}

@@ -1,0 +1,30 @@
+{
+"RECORDS":[
+{
+"id":1,
+"code":"25082136614",
+"slug":"development",
+"email":"dev@vmajans.com",
+"name":"Development",
+"password":"$2y$10$LKBzHnfF11kNOlycPUSSye\/YDlLmvbSg.aDS\/JHuDBJ9LRLzgs0za",
+"active":"yes",
+"last_activity":"2016\/9\/26 10:11:07",
+"remember_token":"XpcRa7Y1rT3HA6C8mSPhvaSi2WFjlN9CnEEfyoKZa9IPs1dwSQCI8xhwllJh",
+"created_at":"2016\/1\/1 01:27:59",
+"updated_at":"2016\/9\/26 13:11:07"
+},
+{
+"id":14,
+"code":null,
+"slug":"yetkili",
+"email":"yetkili@vmajans.com",
+"name":"Yetkili",
+"password":"$2y$10$W83iyUPuMEvsAfelZDW11.99\/R4X9CIS2Hn1QNyEdX7JuMwXGPSgO",
+"active":"yes",
+"last_activity":"0000\/0\/0 00:00:00",
+"remember_token":null,
+"created_at":"2016\/2\/1 09:08:09",
+"updated_at":"2016\/6\/7 23:49:14"
+}
+]
+}

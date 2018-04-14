@@ -1,0 +1,73 @@
+{
+	"name" : "laravel/laravel",
+	"description" : "Earth laravel uygulama oluşturma çatısı.",
+	"keywords" : [
+		"framework",
+		"laravel"
+	],
+	"license" : "MIT",
+	"type" : "project",
+	"require" : {
+		"php" : ">=5.5.9",
+		"laravel/framework" : "5.2.*",
+		"laravel/socialite" : "^2.0",
+		"barryvdh/laravel-debugbar" : "*",
+		"intervention/image" : "*",
+		"mews/purifier" : "~2.0",
+		"dompdf/dompdf" : "~0.6.1",
+		"maatwebsite/excel" : "2.1.*",
+		"pear/numbers_words" : "*",
+		"guzzlehttp/guzzle" : "*",
+		"guzzlehttp/oauth-subscriber" : "*",
+		"ribrit/laravel-elfinder" : "*",
+		"doctrine/inflector": "1.1.0"
+	},
+	"require-dev" : {
+		"fzaninotto/faker" : "~1.4",
+		"mockery/mockery" : "0.9.*",
+		"phpunit/phpunit" : "~4.0",
+		"symfony/css-selector" : "2.8.*|3.0.*",
+		"symfony/dom-crawler" : "2.8.*|3.0.*"
+	},
+	"autoload" : {
+		"classmap" : [
+			"database"
+		],
+		"psr-4" : {
+			"App\\" : "app/",
+			"Ribrit\\Auth\\" : "packages/auth/src/",
+			"Ribrit\\Mars\\" : "packages/mars/src/",
+			"Ribrit\\Tenant\\" : "packages/tenant/src/",
+			"Plugin\\Application\\Cms\\" : "plugins/cms/src/"
+		},
+		"files" : [
+			"app/Helpers/helper.php",
+			"packages/mars/src/helpers.php",
+			"packages/tenant/src/helpers.php"
+		]
+	},
+	"autoload-dev" : {
+		"classmap" : [
+			"tests/TestCase.php"
+		]
+	},
+	"scripts" : {
+		"post-root-package-install" : [
+			"php -r \"copy('.env.example', '.env');\""
+		],
+		"post-create-project-cmd" : [
+			"php artisan key:generate"
+		],
+		"post-install-cmd" : [
+			"Illuminate\\Foundation\\ComposerScripts::postInstall"
+		],
+		"post-update-cmd" : [
+			"Illuminate\\Foundation\\ComposerScripts::postUpdate"
+		]
+	},
+	"config" : {
+		"preferred-install" : "dist"
+	},
+	"minimum-stability" : "dev",
+	"prefer-stable" : true
+}

@@ -1,0 +1,68 @@
+{
+"RECORDS":[
+{
+"id":1,
+"name":"Türk Lirası",
+"iso_code":"TRY",
+"iso_code_num":"949",
+"symbol":"₺",
+"format":"%v%s",
+"step":2,
+"decimal":",",
+"thousand":".",
+"conversion_rate":1.000000,
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/1 09:45:25",
+"updated_at":null
+},
+{
+"id":2,
+"name":"US Dollar",
+"iso_code":"USD",
+"iso_code_num":"949",
+"symbol":"$",
+"format":"%s%v",
+"step":2,
+"decimal":",",
+"thousand":".",
+"conversion_rate":0.754000,
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/1 09:45:30",
+"updated_at":null
+},
+{
+"id":3,
+"name":"Euro",
+"iso_code":"EUR",
+"iso_code_num":"949",
+"symbol":"€",
+"format":"%v%s",
+"step":2,
+"decimal":",",
+"thousand":".",
+"conversion_rate":0.654000,
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/1 09:45:35",
+"updated_at":null
+},
+{
+"id":4,
+"name":"Pound Sterling",
+"iso_code":"GBP",
+"iso_code_num":"949",
+"symbol":"£",
+"format":"%v%s",
+"step":2,
+"decimal":",",
+"thousand":".",
+"conversion_rate":0.454000,
+"row":100,
+"active":"yes",
+"created_at":"2016\/2\/1 09:45:40",
+"updated_at":"2016\/8\/11 17:37:07"
+}
+]
+}

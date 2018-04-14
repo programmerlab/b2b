@@ -1,0 +1,25 @@
+{
+    "name": "ribrit/tenant",
+    "keywords": ["mars", "earth", "ribrit"],
+    "description": "Earth yapısı için oluşturulmuş kiracı modeli",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fırat Özpınar",
+            "email": "dev@firat.pl"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ribrit\\Tenant\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

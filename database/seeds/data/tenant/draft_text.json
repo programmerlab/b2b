@@ -1,0 +1,32 @@
+{
+"RECORDS":[
+{
+"id":3,
+"draft_id":1,
+"lang_id":2,
+"subject":"İletişim formu kullanılarak mesaj gönderildi!",
+"content":"<table style=\"border-top: 3px solid #3EA7FB; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td valign=\"top\">\n<table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\">\n<tbody>\n<tr style=\"height: 120px;\">\n<td align=\"center\" valign=\"top\" width=\"100%\" style=\"height: 120px;\"><a style=\"display: block; margin: 21px 0 0 0;\" href=\"\/\" target=\"_blank\" rel=\"nofollow\"> <img src=\"\/storage\/1\/site\/logo.png\" caption=\"false\" width=\"163\" height=\"34\" \/> <\/a><\/td>\n<\/tr>\n<tr style=\"height: 243px;\">\n<td style=\"padding: 0px 30px 30px; height: 243px;\">\n<div style=\"margin: 0 auto; max-width: 780px; font-size: 14px; line-height: 140%;\">\n<h1 style=\"color: #333; line-height: 42px; margin: 0;\">Mesajınız Var!<\/h1>\n<div style=\"font-size: 16px; line-height: 160%; margin: 30px 0;\">\n<p>Aşağıdaki bilgilere sahip kullanıcı sitenizi kullanarak size eposta gönderdi!<\/p>\n<ul style=\"list-style: none;\">\n<li>Ad Soyad : {musteri}<\/li>\n<li>Konu : {konu}<\/li>\n<li>Eposta : {eposta}<\/li>\n<li>Mesaj : {mesaj}<\/li>\n<\/ul>\n<\/div>\n<\/div>\n<\/td>\n<\/tr>\n<tr style=\"height: 35px;\">\n<td align=\"center\" style=\"height: 35px;\">\n<p style=\"font-size: 11px; color: #aaa;\">© 2016 arackira.la<\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>"
+},
+{
+"id":4,
+"draft_id":1,
+"lang_id":1,
+"subject":"İletişim formu kullanılarak mesaj gönderildi!",
+"content":"<table style=\"border-top: 3px solid #3EA7FB; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td valign=\"top\">\n<table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\">\n<tbody>\n<tr>\n<td align=\"center\" valign=\"top\" width=\"100%\" height=\"120\"><a style=\"display: block; margin: 21px 0 0 0;\" href=\"\/\" target=\"_blank\" rel=\"nofollow\"> <img src=\"\/storage\/1\/site\/logo.png\" caption=\"false\" width=\"163\" height=\"34\" \/> <\/a><\/td>\n<\/tr>\n<tr>\n<td style=\"padding: 0 30px 30px;\">\n<div style=\"margin: 0 auto; max-width: 780px; font-size: 14px; line-height: 140%;\">\n<h1 style=\"color: #333; line-height: 42px; margin: 0;\">Mesajınız Var!<\/h1>\n<div style=\"font-size: 16px; line-height: 160%; margin: 30px 0;\">\n<p>Aşağıdaki bilgilere sahip kullanıcı sitenizi kullanarak size eposta gönderdi!<\/p>\n<ul style=\"list-style: none;\">\n<li>Ad Soyad : {musteri}<\/li>\n<li>Konu : {konu}<\/li>\n<li>Eposta : {eposta}<\/li>\n<li>Mesaj : {mesaj}<\/li>\n<\/ul>\n<\/div>\n<\/div>\n<\/td>\n<\/tr>\n<tr>\n<td align=\"center\">\n<p style=\"font-size: 11px; color: #aaa;\">© 2016 arackira.la<\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>"
+},
+{
+"id":7,
+"draft_id":2,
+"lang_id":2,
+"subject":"Mesajınız başarılı şekilde alındı!",
+"content":"<table style=\"border-top: 3px solid #3EA7FB; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td valign=\"top\">\n<table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\">\n<tbody>\n<tr>\n<td align=\"center\" valign=\"top\" width=\"100%\" height=\"120\"><a style=\"display: block; margin: 21px 0 0 0;\" href=\"\/\" target=\"_blank\" rel=\"nofollow\"> <img src=\"\/storage\/1\/site\/logo.png\" caption=\"false\" width=\"163\" height=\"34\" \/> <\/a><\/td>\n<\/tr>\n<tr>\n<td style=\"padding: 0 30px 30px;\">\n<div style=\"margin: 0 auto; max-width: 780px; font-size: 14px; line-height: 140%;\">\n<h1 style=\"color: #333; line-height: 42px; margin: 0;\">Thanks {musteri}<\/h1>\n<div style=\"font-size: 16px; line-height: 160%; margin: 30px 0;\">\n<p>İletişim paneli kullanarak bize iletmiş olduğunuz mesaj elimize ulaştı.<br \/>İlgili birimlerimiz gerekli incelemeleri yapıp, en kısa sürede size geri dönüş yapacaklar.<br \/><br \/>SiteAdı<\/p>\n<\/div>\n<\/div>\n<\/td>\n<\/tr>\n<tr>\n<td align=\"center\">\n<p style=\"font-size: 11px; color: #aaa;\">© 2016 arackira.la<\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>"
+},
+{
+"id":8,
+"draft_id":2,
+"lang_id":1,
+"subject":"Mesajınız başarılı şekilde alındı!",
+"content":"<table style=\"border-top: 3px solid #3EA7FB; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td valign=\"top\">\n<table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\">\n<tbody>\n<tr>\n<td align=\"center\" valign=\"top\" width=\"100%\" height=\"120\"><a style=\"display: block; margin: 21px 0 0 0;\" href=\"\/\" target=\"_blank\" rel=\"nofollow\"> <img src=\"\/storage\/1\/site\/logo.png\" caption=\"false\" width=\"163\" height=\"34\" \/> <\/a><\/td>\n<\/tr>\n<tr>\n<td style=\"padding: 0 30px 30px;\">\n<div style=\"margin: 0 auto; max-width: 780px; font-size: 14px; line-height: 140%;\">\n<h1 style=\"color: #333; line-height: 42px; margin: 0;\">Teşekkürler {musteri}<\/h1>\n<div style=\"font-size: 16px; line-height: 160%; margin: 30px 0;\">\n<p>İletişim paneli kullanarak bize iletmiş olduğunuz mesaj elimize ulaştı.<br \/>İlgili birimlerimiz gerekli incelemeleri yapıp, en kısa sürede size geri dönüş yapacaklar.<br \/><br \/>SiteAdı<\/p>\n<\/div>\n<\/div>\n<\/td>\n<\/tr>\n<tr>\n<td align=\"center\">\n<p style=\"font-size: 11px; color: #aaa;\">© 2016 arackira.la<\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>"
+}
+]
+}

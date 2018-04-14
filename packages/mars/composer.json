@@ -1,0 +1,61 @@
+{
+    "name": "ribrit/mars",
+    "keywords": ["laravel", "ribrit"],
+    "description": "Laravel ile geliştirilmiş uygulama oluşturma çatısı.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fırat Özpinar",
+            "email": "dev@firat.pl"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "5.2.x",
+        "laravel/socialite": "^2.0",
+        "barryvdh/laravel-debugbar": "*",
+        "intervention/image": "*",
+        "mews/purifier": "~2.0",
+        "dompdf/dompdf": "~0.6.1",
+        "maatwebsite/excel": "2.1.*",
+        "pear/numbers_words": "*",
+        "guzzlehttp/guzzle": "*",
+        "guzzlehttp/oauth-subscriber": "*",
+        "greggilbert/recaptcha": "dev-master",
+        "cviebrock/eloquent-sluggable" : "*",
+        "ribrit/installers": "*",
+        "ribrit/laravel-elfinder": "*",
+        "ribrit/tenant": "dev-laravel5.2",
+        "ribrit/auth": "dev-laravel5.2",
+        "ribrit/admin-theme-gokyuzu" : "dev-master",
+        "ribrit/theme-bulut" : "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ribrit\\Mars\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "url": "git@bitbucket.org:ribrit/tenant.git",
+            "type": "git"
+        },
+        {
+            "url": "git@bitbucket.org:ribrit/auth.git",
+            "type": "git"
+        },
+        {
+            "url": "git@bitbucket.org:ribrit/admin-theme-gokyuzu.git",
+            "type": "git"
+        },
+        {
+            "url": "git@bitbucket.org:ribrit/theme-bulut.git",
+            "type": "git"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+fields:
+  - lang
+  - currency
+  - themeAdmin
+  - themeSite
+  - loginType
+  - appType
+  - groupRouteId
+  - roleRouteId
+  - guestRole
+  - rootRole

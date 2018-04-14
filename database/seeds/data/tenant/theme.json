@@ -1,0 +1,36 @@
+{
+"RECORDS":[
+{
+"id":1,
+"tenant_id":1,
+"group_id":60,
+"group_code":"admin",
+"name":"travela",
+"description":"Html 5 Responsive tema",
+"author":"VMAjans",
+"link":"http:\/\/vmajans.com",
+"preview":"\/assets\/themes\/admin\/travela\/build\/image\/preview.png",
+"directory":"resources\/themes\/travela\/",
+"assets":"\/assets\/themes\/admin\/travela\/build\/",
+"active":"yes",
+"created_at":"2016\/2\/25 16:00:56",
+"updated_at":"2016\/3\/4 17:11:26"
+},
+{
+"id":2,
+"tenant_id":1,
+"group_id":61,
+"group_code":"site",
+"name":"travel",
+"description":"Html 5 Responsive site teması",
+"author":"VMAjans",
+"link":"http:\/\/vmajans.com",
+"preview":"\/assets\/themes\/site\/travel\/build\/image\/preview.png",
+"directory":"themes\/travel\/",
+"assets":"\/assets\/themes\/site\/travel\/build\/",
+"active":"yes",
+"created_at":"2016\/2\/26 14:32:16",
+"updated_at":"2016\/4\/6 11:14:48"
+}
+]
+}

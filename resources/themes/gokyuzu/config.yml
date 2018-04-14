@@ -1,0 +1,18 @@
+info:
+    group_code: admin
+    name: gokyuzu
+    description : "Html 5 Responsive tema"
+    author : "Ribrit"
+    link : "http://ribrit.com"
+    preview : "/assets/themes/admin/gokyuzu/build/image/preview.png"
+    directory : "resources/themes/gokyuzu/"
+    assets : "/assets/themes/admin/gokyuzu/build/"
+fields:
+    logoName: "Ribrit"
+    slogan: ""
+    logo: "/assets/themes/admin/gokyuzu/build/image/logo.png"
+    favicon: "/assets/themes/admin/gokyuzu/build/image/ico/favicon.png"
+    cssImport: ""
+    cssCode: ""
+    jsImport: ""
+    jsCode: ""

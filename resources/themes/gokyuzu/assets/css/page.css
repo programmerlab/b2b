@@ -1,0 +1,29 @@
+body > .login {
+    height : 100% !important
+}
+
+.login .column {
+    margin-top : -50px;
+    max-width  : 550px;
+}
+
+.login .logo {
+    margin-bottom : 20px;
+}
+
+.login .form {
+    box-shadow    : 0 0 6px 2px rgba(0, 0, 0, 0.1);
+    border-radius : 5px;
+    background    : rgba(255, 255, 255, 0.85);
+    padding       : 2em
+}
+
+.login .form .ui.basic.button,
+.login .form .ui.basic.buttons .button {
+    background : #fff !important
+}
+
+.login .form .password {
+    min-width   : 40px;
+    font-weight : bold;
+}

@@ -1,0 +1,37 @@
+@extends('admin::layout.box')
+
+@section('boxContent')
+    <form id="{!! $appRouter['current']['as'] !!}" data-action="{!! route_action('add') !!}" class="ui form">
+        <div class="ui button submit transition hidden"></div>
+        <input name="_token" value="{{ csrf_token() }}" type="hidden">
+
+        <div class="field lang">
+            <label for="">Başlık</label>
+            @include('admin::_parts.lang.lang', ['id' => 'title', 'layout' => 'text_create'])
+        </div>
+
+        <div class="field">
+            <label for="">Görünüm</label>
+            <div class="ui selection dropdown multiple">
+                <input name="layout_path" value="" type="hidden">
+                <i class="dropdown icon"></i>
+                <div class="default text">@lang('admin::public.selection')</div>
+                <div class="menu">
+                    <div class="item" data-value="vertical">@lang('public.vertical')</div>
+                    <div class="item" data-value="horizontal">@lang('public.horizontal')</div>
+                </div>
+            </div>
+        </div>
+    </form>
+@stop
+
+@section('jsCode')
+    @parent
+    <script>
+        $(document).ready(function() {
+            App.form.validate('#{!! $appRouter['current']['as'] !!}', {
+                /**/
+            });
+        });
+    </script>
+@stop

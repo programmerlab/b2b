@@ -1,0 +1,5 @@
+fields:
+  - icon
+  - text_color
+  - bg_color
+  - target

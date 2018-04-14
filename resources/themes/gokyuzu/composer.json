@@ -1,0 +1,12 @@
+{
+    "name": "ribrit/admin-theme-gokyuzu",
+    "type": "mars-admin-theme",
+    "description": "Earth varsayılan admin teması",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Fırat Özpınar",
+            "email": "firat@ribrit.com"
+        }
+    ]
+}

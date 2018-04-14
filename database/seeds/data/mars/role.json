@@ -1,0 +1,44 @@
+{
+"RECORDS":[
+{
+"id":1,
+"code":"guest",
+"main_menu_id":3,
+"add_menu_id":3,
+"row":10,
+"active":"yes",
+"created_at":"2016\/1\/25 15:24:12",
+"updated_at":"2016\/9\/23 13:59:16"
+},
+{
+"id":2,
+"code":"root",
+"main_menu_id":1,
+"add_menu_id":4,
+"row":30,
+"active":"yes",
+"created_at":"2016\/1\/26 15:24:19",
+"updated_at":"2016\/9\/23 12:33:40"
+},
+{
+"id":3,
+"code":"admin",
+"main_menu_id":2,
+"add_menu_id":5,
+"row":40,
+"active":"yes",
+"created_at":"2016\/1\/27 15:24:33",
+"updated_at":"2016\/8\/12 17:21:01"
+},
+{
+"id":4,
+"code":"customer",
+"main_menu_id":3,
+"add_menu_id":3,
+"row":20,
+"active":"yes",
+"created_at":"2016\/1\/28 15:24:42",
+"updated_at":"2016\/8\/12 17:21:10"
+}
+]
+}

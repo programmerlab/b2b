@@ -1,0 +1,329 @@
+/*
+Bu Dosya Custom özellikleri bir araya toplamak için yapılmıştır. Style üzerinde
+yapacağınız değişilikleri lütfen bu dosya üzerinden yapınız.
+*/
+/* 
+    Created on : 31 Ocak 2018
+    Author     : Livaport Digital & Creative
+*/
+
+/* ******************* */
+
+.main-header .top-nav {
+    min-height: 100px !important;
+}
+
+.navbar-top-links li a.dropdown-toggle {
+    padding: 10px 5px;
+    min-height: 50px;
+    margin: 24px 0px;
+}
+
+.main-header .top-nav .nav > li > a > .label {
+    top: 0px;
+}
+
+/* Login Custom Css */
+.login-wrapper .container-center {
+    max-width: 860px;
+}
+
+.login-wrapper .panel-bd {
+    padding: 20px;
+}
+
+.login-wrapper #bottom_text {
+    width: 460px;
+    font-size: 12px;
+}
+
+@media (max-width: 767px) {
+    .login-wrapper #bottom_text {
+        width: 350px;
+        font-size: 12px;
+    }
+}
+
+/* Header Custom Css */
+.main-header .top-nav .navbar-brand {
+    padding: 17px 15px;
+    height: 100px;
+}
+
+.main-header .top-nav .navbar-brand > img {
+    height: 60px;
+}
+
+/* Table Custom Css */
+.special-table {
+    font-size: 11px;
+}
+
+.special-table thead {
+    background: #ddd;
+}
+
+.special-table {
+    border: 1px solid #c9c9c9 !important;
+}
+
+.special-table thead tr th {
+    border: 1px solid #c9c9c9 !important;
+}
+
+.special-table tbody tr th {
+    border: 1px solid #c9c9c9 !important;
+}
+
+.special-table tbody tr td {
+    border: 1px solid #c9c9c9 !important;
+}
+
+.special-table .checkbox, .radio {
+    margin: 0px;
+}
+
+.space-table {
+    font-size: 12px;
+}
+
+.space-table thead {
+    background: #ddd;
+}
+
+.space-table {
+    border: none !important;
+}
+
+.space-table thead tr th {
+    border: none !important;
+}
+
+.space-table tbody tr th {
+    border: none !important;
+}
+
+.space-table tbody tr td {
+    border: none !important;
+}
+
+.fonts12 {
+    font-size: 12px;
+}
+
+/* Panel Custom Css */
+.panel-gray {
+    border: 1px solid #e1e6ef;
+}
+
+.panel-gray > .panel-heading {
+    color: #000;
+    background-color: #d8d8d8;
+    border-color: #d8d8d8;
+    border-radius: 0px;
+}
+
+.ptleft {
+    float: left;
+}
+
+.ptright {
+    float: right;
+}
+
+/* Pagination Custom Css */
+.pagination {
+    margin: 0 0 10px 0;
+}
+
+.pagination li a {
+    border-radius: 0px !important;
+}
+
+/* Tabs Custom Css */
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+    background: #eee;
+}
+
+/* Forms Custom Css */
+label {
+    font-size: 13px;
+    margin-top: 5px;
+    font-family: Arial;
+}
+
+.form-border-b {
+    border-bottom: 1px dotted #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+input.form-control {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset;
+    background: #fbfbfb;
+    border: 1px solid #d0d0d0;
+    -moz-transition: border .2s linear 0s, box-shadow .2s linear 0s;
+}
+
+select.form-control {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset;
+    background: #fbfbfb;
+    border: 1px solid #d0d0d0;
+    -moz-transition: border .2s linear 0s, box-shadow .2s linear 0s;
+}
+
+textarea.form-control {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset;
+    background: #fbfbfb;
+    border: 1px solid #d0d0d0;
+    -moz-transition: border .2s linear 0s, box-shadow .2s linear 0s;
+    resize: none;
+}
+
+/* Ürünler Custom Css */
+.products-widget .panel-body {
+    padding: 0;
+}
+
+.products-widget .panel-footer {
+    padding: 0;
+    border: none;
+}
+
+.products-widget .price {
+    padding: 15px 20px 15px;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    color: #d48;
+}
+
+.products-widget .panel-footer .detail {
+    background-color: #3b5998;
+    color: #fff;
+    padding: 15px;
+    display: block;
+    cursor: pointer;
+}
+
+/* Shopping */
+.button-shopping {
+    margin: 34px 0px 33px 10px;
+    float: right;
+}
+
+.button-shopping a {
+    border-radius: 0px;
+    border: 0px;
+}
+
+.login-wrapper .ui.form .input .label {
+    width: 45px;
+    text-align: center;
+}
+
+.ui.checkbox label {
+    font-size: 14px;
+    padding-left: 0.44em;
+}
+
+.ui.button {
+    letter-spacing: 0 !important;
+}
+
+#header #topRightMenu {
+    height: 100px;
+}
+
+#header #topRightMenu > .item {
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, .1);
+    border-radius: 0;
+    margin-right: 10px;
+    min-width: 32px;
+    min-height: 32px;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, .1);
+}
+
+#header #topRightMenu > .item > .icon {
+    margin-right: 0;
+}
+
+#header #menu {
+    border: none;
+    margin: 0;
+    box-shadow: 0 2px 2px #e1e6ef, 0 1px 0 #e1e6ef;
+    height: 70px;
+}
+
+#header #menu .item:before {
+    background: #e7ecf5;
+}
+
+#header #menu .item {
+    border-radius: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    color: #374767;
+    font-size: 14px;
+    font-family: 'Alegreya Sans',sans-serif;
+}
+
+#header #menu .item:hover {
+    color: #558B2F;
+}
+
+#header #menu .item > .icon {
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+#header #menu .item i.dropdown {
+    margin-right: 0;
+}
+
+#header .navbar.top-nav {
+    background-color: #263238;
+}
+
+#header .navbar-brand {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.statistic-box h2 {
+    color: #fff;
+}
+
+.statistic-box.statistic-filled-3 h2 {
+    color: #374767;
+}
+
+.ui.card .meta {
+    margin-bottom: 0 !important;
+}
+
+.panel-crud .panel-title {
+    margin-top: 5px;
+}
+
+.panel-crud .panel-heading .panel-title h4 {
+    font-size: 18px;
+}
+
+.panel-crud .panel-heading .buttons {
+    height: 35px;
+}
+
+.panel-filter h4 {
+    font-size: 18px;
+}
+
+.view-header .header-title h3 {
+    display: block;
+}

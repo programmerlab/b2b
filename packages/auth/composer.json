@@ -1,0 +1,23 @@
+{
+    "name": "ribrit/auth",
+    "keywords": ["mars", "earth", "ribrit"],
+    "description": "Genel ziyaretçi kimlik işlemleri",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fırat Özpınar",
+            "email": "dev@firat.pl"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ribrit\\Auth\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}

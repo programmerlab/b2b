@@ -1,0 +1,6 @@
+fields:
+  - lang
+  - currency
+  - theme
+  - captcha_public_key
+  - captcha_private_key

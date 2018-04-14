@@ -1,0 +1,27 @@
+<?php
+
+namespace App\Database\Repositories\DummyName;
+
+use App\Database\Contracts\DummyName\DummyNameContract;
+use App\Database\Models\DummyName\DummyName;
+use Ribrit\Mars\Database\Repositories\Repository;
+
+class DummyNameRepository extends Repository implements DummyNameContract
+{
+    /**
+     * The relations to eager load on every query.
+     *
+     * @var array
+     */
+    public $with = [
+        //
+    ];
+
+    public function __construct(DummyName $model)
+    {
+        parent::__construct();
+
+        $this->model = $model;
+        $this->model->setPerPage($this->perPage);
+    }
+}
